@@ -1,7 +1,7 @@
-# sert_dicoding
+
 
 <h3>
-Ismi Nururrizqi <br/>
-17090042 <br/>
-5B
+Nama : Ismi Nururrizqi <br/>
+Nim : 17090042 <br/>
+Kelas :5B
 </h3>
